@@ -1,22 +1,68 @@
 
 body {
 	background: url("../img/stardust.png");
+	font-family: "adelle";
+	color: #30272B;
 	
 }
 
+header {
+	vertical-align: center;
+	margin-top: 50px;
+	padding-top: 50px;
+
+
+}
+
+article {
+	vertical-align: center;
+}
+
+footer {
+	text-align: center;
+	margin: 30px;
+	padding:5px;
+}
+
+a {
+	text-decoration: none;
+	font-style: italic;
+	font-family: "adelle";
+	color:  #8CBEB2;
+
+}
+
+
+a:hover{
+	text-decoration: none;
+	font-family: "adelle";
+	color: #FA665A;
+
+}
 
 
 
 /* Set Your Own Margin & Padding */
-h2, h3, p {
-	margin: 0;
+p {
+	margin: 20px;
 }
+
+div {margin: 20px}
 
 /* Layout for Style Tile*/
 section {
 	margin: 20px 0;
 }
 
+nav {
+margin: 0 0 0 20px;
+
+}
+
+nav a {
+	margin: 0 20px 20px 0;
+
+}
 .color-1,
 .color-2,
 .color-3,
@@ -26,7 +72,7 @@ section {
 	border: 1px solid #FFF;
 	border-radius: 25px;
 	float: left;
-	margin: 0 10px;
+	margin: 20px 10px;
 	height: 50px;
 	width: 50px;
 }
