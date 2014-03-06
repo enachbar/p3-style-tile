@@ -1,6 +1,4 @@
-body {
-	background-color: #30272B;
-}
+
 
 
 
@@ -37,23 +35,39 @@ section {
 }
 
 
-h1 {
+.title {
+	font-size: 40px;
 	font-family: "adelle";
 	color: #FA665A; 
+
 	
 }
 
 
-h1 + em {
+.titlefont {
+	font-size: 20px;
+	font-family: "adelle";
+	color: #FA665A; 
 
 }
 
 h2 {
-	font-family: "adelle-sans"
+	font-family: "adelle-sans", sans-serif;
+	font-size: 20px;
+	font-style: light italic;
+	color:#8CBEB2;
 }
 
+h2 + em {
+	font-family: "adelle-sans";
+	font-style: "none";
+}
+
+
+
+
 /*logo*/
-img {
+.section img {
 
 border: 1px black;
 }
