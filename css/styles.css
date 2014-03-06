@@ -31,7 +31,13 @@ section {
 
 h1 {
 	font-family: "adelle";
+	color: #FA665A; 
 	
+}
+
+
+h1 + em {
+
 }
 
 h2 {
