@@ -26,3 +26,23 @@ section {
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
 }
+
+/*colors and textures*/
+.color-1{
+	background-color: #30272B;
+}
+.color-2{
+	background-color: #8CBEB2;
+}
+.color-3{
+	background-color: #FA665A;
+}
+.pattern-1{
+	background-color: #FA665A;
+}
+.pattern-2{
+	background-color: #FA665A;
+}
+.pattern-3 {
+	background-color: #FA665A;
+}
