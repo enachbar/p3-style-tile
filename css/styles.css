@@ -53,13 +53,7 @@ section {
 
 }
 
-.primaryhead {
-	font-family: "adelle-sans", sans-serif;
-	font-size: 20px;
-	font-style: light-italic;
-	color:#8CBEB2;
-	letter-spacing:1px;
-}
+
 
 .primaryheadfont {
 	font-family: "adelle-sans", sans-serif;
@@ -69,14 +63,7 @@ section {
 	letter-spacing:1px;
 }
 
-.secondaryhead {
-	font-size: 20px;
-	font-family: "adelle";
-	font-style: italic;
-	letter-spacing:1px;
-	color: white; 
 
-}
 
 
 .secondaryheadfont {
