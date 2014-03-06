@@ -54,13 +54,15 @@ section {
 h2 {
 	font-family: "adelle-sans", sans-serif;
 	font-size: 20px;
-	font-style: light italic;
+	font-style: light-italic;
 	color:#8CBEB2;
 }
 
 h2 + em {
-	font-family: "adelle-sans";
-	font-style: "none";
+	font-family: "adelle-sans", sans-serif;
+	font-size: 20px;
+	font-style: light-italic;
+	color:#8CBEB2;
 }
 
 
