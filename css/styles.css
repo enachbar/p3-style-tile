@@ -1,6 +1,7 @@
 
 body {
-	background-color: #30272B;
+	background: url("../img/stardust.png");
+	
 }
 
 
@@ -97,11 +98,11 @@ border: 1px black;
 	background-color: #FA665A;
 }
 .pattern-1{
-	background-color: #FA665A;
+	background:url("../img/stardust.png");
 }
 .pattern-2{
-	background-color: #FA665A;
+	background:url("../img/cream_pixels.png");
 }
 .pattern-3 {
-	background-color: #FA665A;
+	background:url("../img/debut_light.png");
 }
