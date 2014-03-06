@@ -25,7 +25,20 @@ section {
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
+
 }
+
+
+/*logo*/
+img {
+
+border: 1px black;
+}
+
+
+
+
+
 
 /*colors and textures*/
 .color-1{
